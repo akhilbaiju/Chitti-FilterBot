@@ -23,7 +23,6 @@ If you own the copyrights of any stuff intimate us and we will remove it ⚠️
 /about - Something about me! 🥰
 /id  -  I'll Show your  information 🤖
 /status  -  Shows current status (Only for my god) 😉
-
 """
 
 
